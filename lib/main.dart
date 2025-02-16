@@ -9,11 +9,11 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyCRVfXn4-nJGhORrtYUn9ZkuzPLn7Bh14k",
-        appId: "1:1094579124212:android:ca75b7a5c606bbb892aba1",
+        apiKey: "",
+        appId: "",
         messagingSenderId: "",
-        storageBucket: "ikigai-24.firebasestorage.app",
-        projectId: "ikigai-24",
+        storageBucket: "",
+        projectId: "",
       ));
   try {
     final FirebaseApp app = Firebase.app();
