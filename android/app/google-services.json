@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094579124212",
+    "project_id": "ikigai-24",
+    "storage_bucket": "ikigai-24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094579124212:android:ca75b7a5c606bbb892aba1",
+        "android_client_info": {
+          "package_name": "com.example.ikigai_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRVfXn4-nJGhORrtYUn9ZkuzPLn7Bh14k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
